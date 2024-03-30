@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\classes\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|solutionrelative:classes\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\classes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|solutionrelative:classes\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\classes\\classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66519FD7-5606-466C-AFD8-683159BB4AE4}|Classes\\Classes.csproj|solutionrelative:classes\\classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99D7E86-1B21-43C8-A015-1527A744C77E}|Arrays\\Arrays.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99D7E86-1B21-43C8-A015-1527A744C77E}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B4E1C-5786-47FA-B411-32769DDD8590}|Strings\\Strings.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B4E1C-5786-47FA-B411-32769DDD8590}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B2B6A-49A5-4E11-B5C6-CBDF6B379EB5}|Methods\\Methods.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3B2B6A-49A5-4E11-B5C6-CBDF6B379EB5}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B74B72F-49AE-4FDE-9C8E-3F85FECB2B63}|TypesAndVariables\\TypesAndVariables.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B74B72F-49AE-4FDE-9C8E-3F85FECB2B63}|TypesAndVariables\\TypesAndVariables.csproj|solutionrelative:typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41EB851-F4FD-41EC-80EA-0BDA6DF6A876}|Loops\\Loops.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41EB851-F4FD-41EC-80EA-0BDA6DF6A876}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEAAA0-C22E-4758-9157-B261887F7802}|Conditionals\\Conditionals.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEAAA0-C22E-4758-9157-B261887F7802}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99D7E86-1B21-43C8-A015-1527A744C77E}|Arrays\\Arrays.csproj|c:\\users\\hilal\\source\\repos\\csharpcourse\\arrays\\arrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E99D7E86-1B21-43C8-A015-1527A744C77E}|Arrays\\Arrays.csproj|solutionrelative:arrays\\arrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Classes\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\ProductManager.cs",
+              "RelativeToolTip": "Classes\\ProductManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:20:32.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Classes\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\CustomerManager.cs",
+              "RelativeToolTip": "Classes\\CustomerManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:19:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\Customer.cs",
+              "RelativeDocumentMoniker": "Classes\\Customer.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\Customer.cs",
+              "RelativeToolTip": "Classes\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:18:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classes",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\Classes.csproj",
+              "RelativeDocumentMoniker": "Classes\\Classes.csproj",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\Classes.csproj",
+              "RelativeToolTip": "Classes\\Classes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T12:09:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:08:45.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:49:55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:40:07.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Arrays",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Arrays\\Arrays.csproj",
+              "RelativeDocumentMoniker": "Arrays\\Arrays.csproj",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Arrays\\Arrays.csproj",
+              "RelativeToolTip": "Arrays\\Arrays.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T00:09:23.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:09:12.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:17:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Conditionals\\Program.cs",
+              "RelativeDocumentMoniker": "Conditionals\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\Conditionals\\Program.cs",
+              "RelativeToolTip": "Conditionals\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:55:35.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\TypesAndVariables\\Program.cs",
+              "RelativeDocumentMoniker": "TypesAndVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\CSharpCourse\\TypesAndVariables\\Program.cs",
+              "RelativeToolTip": "TypesAndVariables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:44:53.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
